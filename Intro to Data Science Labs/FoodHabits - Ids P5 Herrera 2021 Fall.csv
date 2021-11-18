@@ -1,0 +1,18 @@
+user:id,context:timestamp,calories,cost,healthy_level,ingredients,name,salty_sweet:key,salty_sweet:label,serving_size,snack_image,sodium,sugar,total_fat,why,context:location:latitude,context:location:longitude
+"scs-35987","2021-08-23 08:40:55","100","1","4","1","Banana","1","Sweet","1","SKIPPED","2","14","0","Breakfast",,
+"scs-35987","2021-08-23 08:40:20","100","1","4","1","Banana","1","Sweet","1","SKIPPED","2","14","0","Breakfast",,
+"scs-35987","2021-08-23 08:38:28","70","5","2","25","Cheese and crackers","0","Salty","6","SKIPPED","350","1","20","Appetizer",,
+"scs-35987","2021-08-23 08:36:33","200","1.5","3","30","Protein bar","0","Salty","1","SKIPPED","340","4","11","Breakfast",,
+"scs-26134","2021-08-17 20:31:22","260","2.38","4","9","Señor Rice Pudding","1","Sweet","1","ebe4a778-c10a-46e9-a57a-3537206a7067","100","33","7","taste",,
+"scs-26134","2021-08-17 20:26:13","140","1.89","3","14","Gummy Bears","1","Sweet","1","b77fec56-d566-469e-b00d-187b206a7067","10","18","0","taste",,
+"scs-74559","2021-08-16 11:10:05","130","1","5","25","doritos","0","Salty","1","SKIPPED","200","0","5","Good","35.2377","-89.8508"
+"scs-74559","2021-08-16 11:04:50","260","2","3","35","Lunchables","0","Salty","1","SKIPPED","720","5","16","Hungry","35.2377","-89.8508"
+"scs-35987","2021-08-16 10:10:11","230","1.5","3","30","Protein bar","1","Sweet","1","SKIPPED","240","10","11","Breakfast",,
+"scs-35987","2021-08-16 10:09:26","200","1.25","2","30","Cheese crackers ","0","Salty","1","SKIPPED","340","4","11","Breakfast ",,
+"scs-74559","2021-08-11 12:04:17","160","1","5","26","Cheatos","0","Salty","1","SKIPPED","250","1","10","Good","35.2377","-89.8508"
+"scs-35987","2021-08-11 07:21:49","200","1.5","2","40","Nacho cheese crackers","0","Salty","1","SKIPPED","340","4","11","Breakfast",,
+"scs-35987","2021-08-11 07:20:40","200","1.33","3","30","Protein Bar","1","Sweet","1","SKIPPED","200","2","3","Breakfast",,
+"scs-74559","2021-08-10 12:11:52","180","1","4","34","Takis","0","Salty","2","SKIPPED","490","1","10","tasty","35.2377","-89.8508"
+"scs-26134","2021-08-10 11:27:20","160","3.38","3","3","Fritos","0","Salty","1","8984098e-ede3-440a-aa24-b1e8206a7067","200","1","9","tasty",,
+"scs-31716","2021-08-10 11:25:57","39","6","4","3","Popcorn","0","Salty","2","37a6f6b7-6b57-43d8-94f4-c01b206a7067","12","0","3","Hunger",,
+"scs-62016","2021-08-10 11:25:30","140","2","2","17","Takis","0","Salty","1","5fe7cedc-2e24-412b-8e49-3445206a7067","16","0","8","It has good flavor.",,

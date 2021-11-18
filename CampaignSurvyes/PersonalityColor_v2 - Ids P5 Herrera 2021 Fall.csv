@@ -1,0 +1,8 @@
+user:id,context:timestamp,SuperPower:key,SuperPower:label,blue,gold,green,int_ext:key,int_ext:label,orange,p_color:key,p_color:label,s_color:key,s_color:label,sport:key,sport:label,context:location:latitude,context:location:longitude
+"scs-62016","2021-09-30 12:04:12","2","Freeze Time","5","13","19","0","Introvert","13","1","Green","0","Gold","0","Yes",,
+"scs-23196","2021-10-01 01:04:11","2","Freeze Time","13","12","18","0","Introvert","7","1","Green","3","Blue","1","No",,
+"scs-35987","2021-09-29 13:26:01","4","Fly","13","7","18","0","Introvert","12","1","Green","3","Blue","1","No",,
+"scs-74559","2021-09-29 12:33:21","1","Telepathy (read minds)","13","18","18","0","Introvert","13","0","Gold","1","Green","0","Yes",,
+"scs-26520","2021-09-29 12:28:46","2","Freeze Time","13","14","9","1","Extrovert","14","2","Orange","0","Gold","0","Yes","35.0306","-89.7999"
+"scs-44304","2021-09-29 12:26:11","0","Invisibility","18","17","13","0","Introvert","14","3","Blue","0","Gold","0","Yes","35.11860133353385","-89.90568275566821"
+"scs-26134","2021-09-29 12:25:06","2","Freeze Time","13","13","12","1","Extrovert","14","2","Orange","0","Gold","0","Yes",,
