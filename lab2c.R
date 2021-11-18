@@ -1,0 +1,1 @@
+do()* sample(songs, size=1, replace=TRUE)
